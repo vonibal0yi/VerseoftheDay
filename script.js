@@ -5,18 +5,10 @@ const verses=["Proverbs 2:7 He stores up sound wisdom for the upright; He is a s
         "Hebrews 13:16 But do not forget to do good and share, for with such sacrifices God is well pleased",
         "God Loved the world wekfinfmfevuig rehbuierhbuirethiutreubeuiebiuhgiu bheghbiuge hiuebiuerh iubtheiuheghbuhbieru hbiurehbiube",
         "Ezekiel 33:8 When I say the wicked, 'O wicked man, you shall surely die!' and you do not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood I will require at your hand",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",]
+        "Jame 5:16 [a]Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, [b]fervent prayer of a righteous man avails much.",
+        " James:22 But be doers of the word, and not hearers only, deceiving yourselves.",
+        "Psalms 91:7 A thousand may fall at your side,And ten thousand at your right hand But it shall not come near you. ",
+        ]
 
 
 function giveVerse(){
